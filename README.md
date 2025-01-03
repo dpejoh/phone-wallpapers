@@ -16,7 +16,7 @@ This project is a clone of [Awesome Wallpapers](https://github.com/dpejoh/awesom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/phone-wallpapers.git
+   git clone https://github.com/dpejoh/phone-wallpapers.git
    ```
 2. Browse the collection and pick your favorite.
 3. Set it as your phone's wallpaper.
