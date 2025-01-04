@@ -7,9 +7,7 @@ This project is a clone of [Awesome Wallpapers](https://github.com/dpejoh/awesom
 ## Features
 
 - Creative OS-inspired designs.
-
 - Optimized for various screen resolutions.
-
 - Open to custom wallpaper requests!
 
 ## Usage
